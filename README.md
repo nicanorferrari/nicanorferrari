@@ -24,4 +24,5 @@ Arquitecto de Software y Sistemas de IA con más de 20 años de experiencia tran
 
 ### 🌐 Contacto & Redes Profesionales
 - **LinkedIn:** https://linkedin.com/in/sebastiannicanorferrari
+- **Freelancer.com:** [Ver Perfil & Reviews (★ 5.0/5.0)](https://www.freelancer.com/u/TU_USUARIO_FREELANCER) — Automatización, Computer Vision & Arquitectura Backend
 - **Ubicación:** Barcelona, España (Modalidad Remota / Híbrida)
