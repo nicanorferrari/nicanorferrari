@@ -1,16 +1,27 @@
-## Hi there 👋
+# Sebastián Nicanor Ferrari Aliau
+### Senior AI Solutions Architect & Full-Stack Engineer
 
-<!--
-**nicanorferrari/nicanorferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arquitecto de Software y Sistemas de IA con más de 20 años de experiencia transformando requerimientos complejos en arquitecturas cloud escalables, microservicios resilientes y soluciones productivas de IA Generativa (RAG avanzado, sistemas agénticos y procesamiento inteligente de datos).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Áreas de Especialización & Stack
+
+- **AI & Data:** Generative AI · RAG Architectures · Agentic Workflows (LangGraph / LangChain) · Vector Databases (pgvector, Qdrant) · Knowledge Graphs (Neo4j)
+- **Backend & APIs:** Python (FastAPI) · .NET Core (C#) · Node.js · RESTful Microservices · SQL (PostgreSQL, SQL Server)
+- **Cloud & DevOps:** Microsoft Azure · AWS · Docker · CI/CD Pipelines · Linux Architecture
+
+---
+
+### 📊 Visión General de Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicanorferrari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicanorferrari&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 🌐 Contacto & Redes Profesionales
+- **LinkedIn:** https://linkedin.com/in/sebastiannicanorferrari
+- **Ubicación:** Barcelona, España (Modalidad Remota / Híbrida)
