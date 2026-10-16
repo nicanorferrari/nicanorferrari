@@ -17,7 +17,7 @@ Arquitecto de Software y Sistemas de IA con más de 20 años de experiencia tran
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicanorferrari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicanorferrari&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicanorferrari&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6&cache_seconds=1800&v=2" alt="Lenguajes más usados" />
 </p>
 
 ---
